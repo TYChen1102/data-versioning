@@ -1,0 +1,4 @@
+[core]
+    remote = smarteats_data
+['remote "smarteats_data"']
+    url = gs://ac215smarteat/dvc_store
