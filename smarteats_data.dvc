@@ -1,6 +1,6 @@
 outs:
-- md5: 3392b524d9d74e9e89a159ecb44ebae2.dir
-  size: 3858303
-  nfiles: 1
+- md5: ae13bb0587430385d3e60f5f31ff4e58.dir
+  size: 12770315
+  nfiles: 4
   hash: md5
   path: smarteats_data
